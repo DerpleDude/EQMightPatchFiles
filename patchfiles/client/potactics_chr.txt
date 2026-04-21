@@ -1,0 +1,6 @@
+5
+sdm,sdm_chr
+sdf,sdf_chr
+cst,cst
+szk,szk
+eey,eey_chr
